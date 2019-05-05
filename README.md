@@ -1,5 +1,5 @@
 # twine-homestuck
-CSS and HTML to recreate the look and feel of Homestuck using Twine
+CSS and HTML to recreate the look and feel of Homestuck using Twine (Harlowe)
 ## How to (Method A)
 Import twine-homestuck-example.html into Twine, modify the example as you please.
 ## How to (Method B)
