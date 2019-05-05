@@ -1,0 +1,70 @@
+tw-passage {
+ font-family: "Courier New",Monospace; 
+}
+tw-story {
+ color: #000000;
+ background-color: #C6C6C6;
+ padding: 0% 12%;
+}
+tw-link {
+ color: #0000ff;
+}
+tw-passage {
+ background-color: #EFEFEF;
+ padding: 15px 10%;
+}
+.enchantment-link {
+ color: #0000ff;
+}
+.enchantment-mouseover {
+    border-bottom: 0px none;
+}
+.center {
+  display: block;
+  border: 0;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  background-color: rgb(240, 240, 240);
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: MS Shell Dlg 2;
+  font-weight: 400;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+.chat {
+  border-bottom-color: rgb(128, 128, 128);
+  border-bottom-style: dashed;
+  border-bottom-width: 0.8px;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(128, 128, 128);
+  border-left-style: dashed;
+  border-left-width: 0.8px;
+  border-right-color: rgb(128, 128, 128);
+  border-right-style: dashed;
+  border-right-width: 0.8px;
+  border-top-color: rgb(128, 128, 128);
+  border-top-style: dashed;
+  border-top-width: 0.8px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: "courier-std", courier, monospace;
+  margin-bottom: 32.5px;
+  margin-left: 25px;
+  margin-right: 25px;
+  overflow-wrap: break-word;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  text-align: center; 
+}
